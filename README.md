@@ -3,17 +3,17 @@ Tento repozitář obsahuje jednoduchý postup výměny starých světel za nová
 
 
 ## Postup práce:
-Nejprve je nutné *vypnout jističe od světel* ve sklepě, aby byla zajištěna bezpečnost při práci. Po vypnutí napájení je vhodné *ověřit nepřítomnost napětí*.
+V první fázi prací je nutné provést *bezpečné odpojení elektrického obvodu*, který napájí sklepní osvětlení. To se provede *vypnutím příslušných jističů v rozvaděči*. Po vypnutí musí být vždy provedena *kontrola nepřítomnosti napětí* vhodným měřicím přístrojem, aby bylo zajištěno, že je pracoviště bezpečné a nehrozí úraz elektrickým proudem.
 
-Následně se *vypojí stará světla* z elektrického obvodu a poté se demontují původní svítidla z jejich uchycení.
+Po zajištění pracoviště následuje *odpojení stávajících svítidel od elektrické instalace*. Jednotlivé vodiče se uvolní ze svorkovnic a světla se připraví k demontáži. Následně dojde k *mechanickému odstranění původních svítidel*, včetně jejich držáků, pokud již nevyhovují pro nové osvětlení.
 
-Po odstranění starých světel se provede *příprava kabeláže*, která zahrnuje oholení kabelů a vodičů na potřebnou délku pro připojení nových světel.
+Po demontáži starých světel se provede kontrola a *příprava přívodní kabeláže*. *Vodiče se očistí*, zkrátí na odpovídající délku a odizolují podle požadavků výrobce nových svítidel. Současně se *zkontroluje stav izolace a případné poškození kabelů*, které by mohlo mít vliv na bezpečný provoz.
 
-Dalším krokem je *navrtání nových děr* do konstrukce pro nové úchyty. Do připravených otvorů se následně připevní nové úchyty pro světla.
+Dalším krokem je *příprava montážních bodů* pro nová svítidla. Na základě rozměrů a rozmístění nových světel se vyznačí montážní místa a provede se navrtání otvorů do stavební konstrukce. Do připravených otvorů se následně osadí a pevně ukotví nové montážní úchyty tak, aby byla zajištěna *dostatečná mechanická pevnost a stabilita svítidel*.
 
-Jakmile jsou úchyty připraveny, dojde k zapojení nových světel do elektrického obvodu *podle platného zapojení*.
+Po dokončení mechanické přípravy následuje *elektrické zapojení nových svítidel do stávajícího obvodu*. Zapojení vodičů se provádí dle platných elektro norem a schématu výrobce, s důrazem na *správné připojení fázového, nulového a ochranného vodiče*. Všechny spoje *musí být řádně dotaženy a zajištěny proti uvolnění*.
 
-Na závěr se světla pevně přidělají na úchyty, zkontroluje se správnost zapojení a po dokončení práce je možné *znovu zapnout jističe* a *provést funkční zkoušku*.
+V závěrečné fázi se provede finální montáž svítidel na připravené úchyty, vizuální kontrola provedení a následná funkční zkouška. *Po opětovném zapnutí jističů se ověří správná funkce osvětlení a stabilita upevnění*. Tím je výměna sklepního osvětlení považována za dokončenou.
 
 
 ## Bezpečnost:
@@ -24,3 +24,9 @@ Ověř nepřítomnost napětí zkoušečkou
 Pokud nemáš oprávnění, je třeba kvalifikovaného elektrikáře, osobu s platnou zkouškou 250 nebo *osobu za Vás zodpovědnou* (V mém případě můj otec).
 
 Vždy dbát na BOZP!
+
+
+## Odkazy + výpomoc:
+Pomoc se zapojením můj táta.
+
+Pomoc a naučení s github ChatGPT + zpětná kontrola pravopisu.
