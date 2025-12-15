@@ -1,8 +1,8 @@
-## Rocnikovy_projekt
+# Rocnikovy_projekt
 Tento repozitář obsahuje jednoduchý postup výměny starých světel za nová. Slouží pouze jako checklist a technický zápis.
 
 
-# Postup práce:
+## Postup práce:
 Nejprve je nutné *vypnout jističe od světel* ve sklepě, aby byla zajištěna bezpečnost při práci. Po vypnutí napájení je vhodné *ověřit nepřítomnost napětí*.
 
 Následně se *vypojí stará světla* z elektrického obvodu a poté se demontují původní svítidla z jejich uchycení.
@@ -14,3 +14,13 @@ Dalším krokem je *navrtání nových děr* do konstrukce pro nové úchyty. Do
 Jakmile jsou úchyty připraveny, dojde k zapojení nových světel do elektrického obvodu *podle platného zapojení*.
 
 Na závěr se světla pevně přidělají na úchyty, zkontroluje se správnost zapojení a po dokončení práce je možné *znovu zapnout jističe* a *provést funkční zkoušku*.
+
+
+## Bezpečnost:
+Práci prováděj pouze při vypnutém jističI
+
+Ověř nepřítomnost napětí zkoušečkou
+
+Pokud nemáš oprávnění, je třeba kvalifikovaného elektrikáře, osobu s platnou zkouškou 250 nebo *osobu za Vás zodpovědnou* (V mém případě můj otec).
+
+Vždy dbát na BOZP!
