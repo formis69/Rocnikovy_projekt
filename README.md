@@ -1,7 +1,7 @@
 # Rocnikovy_projekt
 Tento repozitář obsahuje jednoduchý postup výměny starých světel za nová. Slouží pouze jako checklist a technický zápis.
 
-##Zapojení světel do obvodu
+## Zapojení světel do obvodu
 
 # Postup práce:
 V první fázi prací je nutné provést *bezpečné odpojení elektrického obvodu*, který napájí sklepní osvětlení. To se provede *vypnutím příslušných jističů v rozvaděči*. Po vypnutí musí být vždy provedena *kontrola nepřítomnosti napětí* vhodným měřicím přístrojem, aby bylo zajištěno, že je pracoviště bezpečné a nehrozí úraz elektrickým proudem.
