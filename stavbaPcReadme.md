@@ -1,29 +1,114 @@
-# Stolní PC výběr a stavba
+# Výběr a stavba stolního PC
 
-# Výběr
+## Výběr komponent
 
-Jako první je potřeba zjistit co vše máme za komponenty co lze použít i na novém PC bez zhoršení výkonu a funkčnosti. Já osobně mohu znovu užít svůj zdroj jelikož má 750W a je to dostatečné k nové sestavě. To samé je s RAM pamět, do nové sestavy bude stačit 16 GB RAM, v mém případě 2x8GB DDR4 RAM sticks. Nejdůležitější pro můj výběr je poměr cena výkon. Sestava je udělaná pod nízkým rozpočtem a snažil jsem se vejít do zhruba 10 tisíc bez DPH.
+Prvním krokem při návrhu nové počítačové sestavy je identifikace komponent, které lze z předchozího počítače znovu využít bez negativního dopadu na výkon či funkčnost.  
+V mém případě je možné opětovně použít napájecí zdroj o výkonu **750 W**, který je pro plánovanou sestavu plně dostačující. Stejně tak lze zachovat operační paměť – **16 GB RAM** je pro zamýšlené využití adekvátní kapacita, konkrétně konfigurace **2× 8 GB DDR4**.
+
+Hlavním kritériem při výběru nových komponent byl **poměr ceny a výkonu**. Celá sestava je navržena s ohledem na nízký rozpočet, přičemž cílem bylo nepřekročit částku přibližně **10 000 Kč bez DPH**.
+
+---
 
 ## Základní deska
 
-Nejdůležitější součást počítače, srdce které propojuje všechny komponenty je základní deska. Můj výběr základná desky měl pár parametrů. Musí mít být ve formátu microATX, mít aspoň 1 konektor na m.2 SSD, 4 sloty na DDR4 RAM sticks, 2 PCIe sloty/konektory, 4 SATA konektory na HDD a AMD AM4 socket na CPU/procesor. V mých parametrech bylo mnoho desek, ale snažil jsem se jít více v úsporném a funkčním stylu. Můj top pick na základní desku je GIGABYTE A520M DS3H AC, která splněje všechny mé parametry.
+Základní deska představuje klíčovou součást počítače, která propojuje veškeré komponenty. Při výběru základní desky jsem stanovil následující požadavky:
 
-## Chladič
+- Formát **microATX**
+- Minimálně **1× M.2 slot** pro NVMe SSD
+- **4× slot DDR4 RAM**
+- Minimálně **2× PCIe slot**
+- **4× SATA konektor** pro HDD / SSD
+- Socket **AMD AM4**
 
-Ve výběru chladiče jsem si moc nelámal hlavu a šel jsem s dobrou radou na to jaký použít ze zkušenosti kamaráda a vybral si chladič Endorfy Fera 5.
+Na trhu existuje více modelů splňujících tato kritéria, nicméně jsem se zaměřil na cenově úsporné a zároveň funkční řešení. Výslednou volbou se stala základní deska:
 
-## Skříň/Case
+**GIGABYTE A520M DS3H AC**
 
-Výběr skříně patří také mezi tu jednoduchou část. Nejdůležitější je aby podporovala velikost vaší desky viz moje microATX nebo může také být miniATX nebo full sized základní deska ATX. Já jsem vybíral hlavně dle krytérií vzhledu a podpory microATX. Dle těchto možností jsem vybral skříň DEEPCOOL CC560 LIMITED V2 s průhlednou bočnicí a mnoha možnosti na airflow.
+---
 
-## Procesor/CPU
+## Chladič procesoru
 
-Můj výběr CPU zahrnoval mnoho kalkulování bottlenecku mezi CPU a GPU. Hlavní kritérium bylo socket AMD AM4 a minimálně 6 jader a 6 vláken. V této kategorii byl těžký výběr mezi AMD Ryzen 5 5600, která má 16 vláken a 6 jader, ale má 32mB L3 cahce a AMD Ryzen 5 5500, která má stejný počet vláken a jader, ale má jen 16mb L3 cache a hlavní rozdíl, že podporuje pouze PCIe 3.0 proti AMD Ryzen 5600. Cenový rozdíl byl docela markantní s rozdílem zhruba 1200kč. Na konec jsem šel do té levnější možnosti a to pouze protože je lépe kompatibilní s grafickou kartou a procesy, které musí zvládnout. Tímž jsem ukončil výběr s AMD Ryzen 5 5500.
+Při výběru chladiče jsem zvolil osvědčené řešení na základě praktických zkušeností a doporučení. Konkrétně se jedná o chladič:
+
+**Endorfy Fera 5**
+
+Tento chladič nabízí velmi dobrý poměr mezi cenou, výkonem a hlučností.
+
+---
+
+## Počítačová skříň
+
+Výběr skříně patří mezi jednodušší kroky, avšak i zde je nutné zohlednit kompatibilitu se základní deskou. Skříň musí podporovat formát **microATX** (případně mini-ATX nebo ATX).
+
+Při výběru jsem se zaměřil především na:
+
+- Design
+- Podporu microATX
+- Možnosti airflow
+
+Na základě těchto kritérií byla zvolena skříň:
+
+**DEEPCOOL CC560 LIMITED V2**
+
+Skříň nabízí průhlednou bočnici a dostatečný prostor pro efektivní chlazení komponent.
+
+---
+
+## Procesor (CPU)
+
+Výběr procesoru vyžadoval pečlivé zvažování možného **bottlenecku** mezi CPU a grafickou kartou. Základní požadavky byly:
+
+- Socket **AMD AM4**
+- Minimálně **6 jader a 6 vláken**
+
+Do užšího výběru se dostaly procesory:
+
+- **AMD Ryzen 5 5600**
+- **AMD Ryzen 5 5500**
+
+| Procesor | Jádra / Vlákna | L3 Cache | PCIe |
+|--------|---------------|----------|------|
+| Ryzen 5 5600 | 6 / 12 | 32 MB | 4.0 |
+| Ryzen 5 5500 | 6 / 12 | 16 MB | 3.0 |
+
+Cenový rozdíl mezi těmito procesory činil přibližně **1 200 Kč**.  
+Z důvodu lepší cenové dostupnosti a dostatečného výkonu pro zvolenou grafickou kartu jsem se rozhodl pro:
+
+**AMD Ryzen 5 5500**
+
+---
 
 ## Grafická karta
 
-U této kategorie jsem se snažil zaměřit na více kritérií. Mezi tyto kritéria patřila doba vydání grafické karty, cena, velikost VRAM, obecný výkon a extra funkce. Do finálních kol se dostali 3 grafické karty a to AMD RX 7600 8GB VRAM, Nvidia RTX 5050 8GB VRAM a Nvidia 3060 8GB VRAM. Jako první byla vyřazena Nvidia RTX 3060 jelikož to už je starší grafika a má horší benchmark než další dvě grafické karty. Po docela dlouhém vybírání a skoro stejnými výsledky benchmarku jsem si vybral trochu slabší grafickou kartu a to Nvidia RTX 5050 jelikož má o dost více funkcí a lepší výsledku u např. CS2 benchmarku a FiveM benchmarku kde měla rychlejší loading textur a menší micro záseky na náročných místech. 
+Při výběru grafické karty jsem zohledňoval následující kritéria:
 
-# Závěr výběru
+- Rok uvedení na trh
+- Cena
+- Velikost VRAM
+- Celkový výkon
+- Dostupné technologie
 
-Finální produkt by se dal považovat za docela výkonný a kompetetivní stroj ve své cenové kategorii, hlavně určen na hraní, ale také na CPU a GPU heavy tasks např. blender nebo rendering. Finální cena komponentů je 11605Kč a 9591Kč bez DPH.
+Do finálního výběru se dostaly tyto modely:
+
+- **AMD Radeon RX 7600 (8 GB VRAM)**
+- **NVIDIA RTX 3050 (8 GB VRAM)**
+- **NVIDIA RTX 3060 (8 GB VRAM)**
+
+Grafická karta **RTX 3060** byla vyřazena jako první, jelikož se jedná o starší model s horšími benchmarkovými výsledky oproti zbývajícím variantám.
+
+Po detailním porovnání výkonu a praktických testů jsem se rozhodl pro:
+
+**NVIDIA RTX 3050**
+
+Hlavními důvody byly lepší výsledky v konkrétních hrách (např. *CS2* a *FiveM*), rychlejší načítání textur a nižší výskyt mikro-záseků v náročných scénách.
+
+---
+
+## Závěr
+
+Výslednou sestavu lze považovat za **výkonný a konkurenceschopný počítač** ve své cenové kategorii. Je primárně určena pro hraní her, ale zároveň zvládne i náročnější úlohy zatěžující procesor i grafickou kartu, například práci v **Blenderu** nebo **rendering**.
+
+### Cena sestavy
+
+- **11 605 Kč s DPH**
+- **9 591 Kč bez DPH**
