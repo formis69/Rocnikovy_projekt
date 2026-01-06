@@ -26,8 +26,10 @@ Vždy dbát na BOZP!
 
 
 ## Odkazy + výpomoc:
-Pomoc se zapojením můj táta.
+*Pomoc se zapojením můj táta.*
 
-Pomoc a naučení s github ChatGPT + zpětná kontrola pravopisu.
+*ChatGPT. Online. 2022. Dostupné z: https://chatgpt.com/business/. [cit. 2026-01-06].*
 
-Schopnost logického zapojení -> moje hlava
+*1 Switch 4 Bulb Light Connection || Parallel Connection || It's Electrical || [@itselectrical]. Online. 2021. Dostupné z: https://www.youtube.com/watch?v=Y-DZmw1um30. [cit. 2026-01-06].*
+
+*How to make a series bulb connection [@ASDDulu77]. Online. 2021. Dostupné z: https://www.youtube.com/watch?v=u0iErNYdtKI. [cit. 2026-01-06].*
