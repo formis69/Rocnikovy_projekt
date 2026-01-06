@@ -91,14 +91,14 @@ Při výběru grafické karty jsem zohledňoval následující kritéria:
 Do finálního výběru se dostaly tyto modely:
 
 - **AMD Radeon RX 7600 (8 GB VRAM)**
-- **NVIDIA RTX 3050 (8 GB VRAM)**
+- **NVIDIA RTX 5050 (8 GB VRAM)**
 - **NVIDIA RTX 3060 (8 GB VRAM)**
 
 Grafická karta **RTX 3060** byla vyřazena jako první, jelikož se jedná o starší model s horšími benchmarkovými výsledky oproti zbývajícím variantám.
 
 Po detailním porovnání výkonu a praktických testů jsem se rozhodl pro:
 
-**NVIDIA RTX 3050**
+**NVIDIA RTX 5050**
 
 Hlavními důvody byly lepší výsledky v konkrétních hrách (např. *CS2* a *FiveM*), rychlejší načítání textur a nižší výskyt mikro-záseků v náročných scénách.
 
