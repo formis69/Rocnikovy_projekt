@@ -112,3 +112,11 @@ Výslednou sestavu lze považovat za **výkonný a konkurenceschopný počítač
 
 - **11 605 Kč s DPH**
 - **9 591 Kč bez DPH**
+
+---
+
+## Citace
+-Smarty.cz. Online. Dostupné z: https://www.smarty.cz. [cit. 2026-01-06].
+-Alza.cz. Online. Dostupné z: https://www.alza.cz/?idp=12148&banner_id=45250. [cit. 2026-01-06].
+-PC Builds. Online. Dostupné z: https://pc-builds.com/bottleneck-calculator/. [cit. 2026-01-06].
+-Geekbench. Online. Dostupné z: https://browser.geekbench.com. [cit. 2026-01-06].
