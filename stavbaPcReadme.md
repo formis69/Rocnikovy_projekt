@@ -123,3 +123,5 @@ Výslednou sestavu lze považovat za **výkonný a konkurenceschopný počítač
 -PC Builds. Online. Dostupné z: https://pc-builds.com/bottleneck-calculator/. [cit. 2026-01-06].  
 
 -Geekbench. Online. Dostupné z: https://browser.geekbench.com. [cit. 2026-01-06].  
+
+-ChatGPT. Online. 2022. Dostupné z: https://chatgpt.com/business/. [cit. 2026-01-06].
