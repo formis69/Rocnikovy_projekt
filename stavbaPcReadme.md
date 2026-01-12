@@ -104,9 +104,19 @@ Hlavními důvody byly lepší výsledky v konkrétních hrách (např. *CS2* a 
 
 ---
 
+## Výsledky testů a analýza bottlenecku
+
+### CPU Benchmark
+![CPU Benchmark](cpuBenchmark.png)
+
+### Bottleneck Calculator
+![Bottleneck Calculator](bottleneckCalculator.png)
+
 ## Závěr
 
 Výslednou sestavu lze považovat za **výkonný a konkurenceschopný počítač** ve své cenové kategorii. Je primárně určena pro hraní her, ale zároveň zvládne i náročnější úlohy zatěžující procesor i grafickou kartu, například práci v **Blenderu** nebo **rendering**.
+
+---
 
 ### Cena sestavy
 
