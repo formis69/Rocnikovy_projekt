@@ -112,6 +112,8 @@ Hlavními důvody byly lepší výsledky v konkrétních hrách (např. *CS2* a 
 ### Bottleneck Calculator
 ![Bottleneck Calculator](bottleneckCalculator.png)
 
+---
+
 ## Závěr
 
 Výslednou sestavu lze považovat za **výkonný a konkurenceschopný počítač** ve své cenové kategorii. Je primárně určena pro hraní her, ale zároveň zvládne i náročnější úlohy zatěžující procesor i grafickou kartu, například práci v **Blenderu** nebo **rendering**.
