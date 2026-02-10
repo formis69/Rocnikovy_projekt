@@ -1,5 +1,7 @@
 # Pouze preview
 
+---
+
 ## Struktura read me:
 
 1. zapojeniSvetel.md -> Read me ohledně zapojení světel a je ho postupu
@@ -17,5 +19,7 @@
 7. before.jpg -> Foto pouze komponent před začátkem stavby
 
 8. after.jpg -> Foto již kompletní sestavy PC
+
+---
 
 # Citace vždy pod textama!
