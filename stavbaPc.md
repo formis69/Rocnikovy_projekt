@@ -1,92 +1,69 @@
-# Stavba stolního počítače
+# Postup stavby počítače
 
-
-## Potřebné díly a mé komponenty
-
-
-1. Základní deska - Gigabyte B550M K
-2. Procesor - AMD Ryzen 5 5500
-3. Chladič procesoru - Endorfy Fera 5
-4. PSU [Power supply (zdroj)] - Nevím jaká značka to byla
-5. Case - DEEPCOOL CC560 LIMITED V2
-6. RAM - 1x Patriot 16 Gb 2600MHz
-7. Grafická karta - MSI Nvidia RTX 5050 8Gb VRam
-8. SSD nebo HDD - 1x 528GB SATA 3 SDD a 1x 1Tb SATA 3 HDD
-
+Tento dokument slouží jako detailní průvodce procesem montáže stolního počítače. Seznam použitých komponent naleznete v samostatném konfiguračním souboru.
 
 ---
 
 ## Příprava na stavbu
 
-
-  Je potřeba mí po ruce ideálně 2x plochý šroubovák (jeden menší a druhý větší) a 2x křížový šroubovák (také jeden menší a druhý větší). Krabici od základní desky, takže nevyhazovat a nechat si věci na cabel managment co byli dodány s základní deskou např. stahovací pásky nebo spínací pásky na suchý zip.
-  
+Před zahájením práce je nutné připravit si vhodné nářadí. Ideální je mít po ruce dva ploché šroubováky (menší a větší) a dva křížové šroubováky. Krabici od základní desky nevyhazujte; poslouží jako bezpečná, měkká podložka pro prvotní osazování komponent. Rovněž si ponechejte veškeré drobné příslušenství dodané s deskou, jako jsou stahovací pásky či suché zipy, které později oceníte při vyvazování kabeláže.
 
 ---
 
-## Stavba
+## Osazení základní desky (Příprava mimo skříň)
 
-  První krok je vybalit MoBo.Před vyjmutím z krabice se ujistíme dotknutím např. topení, že se zbavíme statické elektřiny, aby nebyla možnost si MoBo vyzkratovat.  Po vyjmutí z krabice a proti statického obalu si ji odložím na krabici.
-  
-  Připravíme si CPU, ale ještě nevytahujeme z boxu a ujistíme se že v balení s chladičem je termální pasta. V mém případě byla dodána v balení, takže o problém méně, ale pokud v balení není tak nemůžeme pokračovat a musíme si ji koupit. Po kontrole si můžeme otevřít socket na CPU na MoBo. Na socketu si najdeme kde se nachází malinká šipka na rohu socketu a srovnáme CPU tak, aby šipka korespondovala s šipkou na socketu. Pokud jsme si sto procentně jistí tak můžeme CPU vložit, ideálně nechat gravitaci udělat práci za nás a netlačit moc na CPU, ale pokud nechce zapadnou a 100% víme, že je správně tak můžeme použít trochu síly, ale je potřeba být velmi opatrný, abychom neohli žádné piny. Teď můžeme uzavřít socket pomocí malé páčky na boku, tím že zatlačíme dolů a trochu do strany, v tomto případě nevadí použít sílu.
-  
-  Dalším krokem je instalace RAM. Instalace RAM je sama o sobě velmi jednoduchá, ale je potřeba dát si pozor na pár věcí. Jedna z nich je instalovat je do správných slotů. Každá MoBo má jina sloty na dual channel (když máme 2 RAM) tak v mém případě by to byl slot 2 a 4. Při tomto kroku je vždy potřeba si zkontrolovat schéme tak, aby byli RAM ve správných slotech jinak riskujeme zhořšení jejich výkonu nebo i taktování. V mém případě bude pouze 1x RAM a na mé MoBo patří do slotu 2. Před instalací musíme otevřít oba zámky na ramky tak, aby byli otevřený a mohli jsme zacvakout RAM do slotu. Zámky se sami zavřou po zastrčení RAM sticku. Při této praci lze použít sílu, ale přiměřeně.
-  
-  V tuhle chvíly už máme vše připravené na to abychom mohli přidat chladič CPU. V balení s chladičem, pokud není s CPU, tak je skoro vždy mount kit na Intel i AMD AM4 a AM5 socket. V mém případě mám socket AMD AM4 a proto si z balení chladiče vytáhnu, vyvyšovací šrouby, šrouby na přidělání framu na chladič a samo utahovací šrouby přímo na chladič. Prvním krokem při instalaci AMD AM4 je sundat plastové držáky na chladič a vyměnit každou díru na šroub s vyvýšenými šrouby, které mají díru na šrouby které budou držet frame chladiče. přiděláme bracket na chladič a pevně utáhneme, ale ne tak abychom poničili MoBo. Teď si na vrch procesoru naneseme termální pastu do křízku a do káždého trojúhelníku dáme jednu tečku termální pasty a sundáme plastovou pásku co je na spodu chladiče a přiložíme chladič na CPU. A teď budeme postupně a vždy rovnoměrně utahovat samo utahovací šrouby tak aby chladič držel a zároveň nebyl dotáhnutý úplně na krev.
-  
-  Konečně si můžeme vytáhnout náš case. Ve spodní časti case kde je i kabeláž na reset, power on/off, jack 3,5 a USB 3,2, tam také najdeme všechny šrouby ke case a montáži všech komponentů. První ale přiděláme na case IO shield tak baychom měli konektroy kryté. Poté si dáme MoBo na slot v case a přišroubujeme spacer kde klasický šroub nedosáhne a přišroubujeme pevně, ale ne na krev a ne volně. Začneme se zapojováním konektorů přímo na case ot znamená power on/off, reset, atd. Poté připojíme CPU fan na 4 pinový konektor přímo u RAM a CPU.
-  
-  Dalším krokem je instalace PSU. PSU má vždy své přiřazené místo kde bude přišroubováno a tam to dotáhneme co nejvíce, aby PSU nebyla volně. Pokud máte modulárni PSU tak připojit všechny potřebné kabely před přiděláním PSU! A můžeme začít s kabeláží. Připojíme 8 a 16 pinový konektor na MoBo. Pokud chcete mít dobrý cabel managment tak u modulárního zdroje doporučuji nopoužít všchny a kabel a pouze ty potřebné.
-  V tuhle chvíly se dostáváme do nejjednuší části stavby a to je přidělání GPU. Předtím než budeme dávat GPU do slotu musíme odstranit dust cover většinou 2 sloty někdy i více, vždy podle PCiE 16 slotu a výšky GPU. Dust cover je většinou na odlomení někdy je na odšroubování na to vždy pozor. Nyní si otevřeme slot lock na PCiE a vložíme GPU a zatlačíme tak, aby to cvaknulo. Teď připojíme 8 pinový konektor z PSU do GPU a pokud má naše GPU 2 sloty na 8 pin doporučuju použí oba pro stabilitu systému.
-  
-  Jedním z posledních kroků je přidělání našeho storage v mém případě 1x SATA 3 SSD a 1x SATA 3 HDD, tím pádem si připravým 2 konektory z PSU na SATA a 2 SATA 3 konektory na MoBo. HDD vložím do racku na 3,5 HDD a přišroubuju. SSD jsem si dal na vnitřní část case na bočnici a přišrouboval jsem. Po přidělání zapojím všechny kabely a pro některé z nás to je vše. 
-  
-  Pokud máte rádi pořádek a máte třeba prosklenou bočnici u case tak se můžete vrhnout na cabel managment. Já jsem se pouze zaměřil na kabely co jsou viditelné skrz prosklenou bočnici a kabely co jsou vidět pouze po sundání zadní bočnice jsem nechal více méně na volno jelikož stejně nejsou vidět.
-  
-  A už můžeme zkusit zapnout počítač. Pokud se zapne do BIOSu gratuluju máte postavený svůj první PC pokud ne tak jste někde v postupu udělali chybu a musíte začít backtrackovat svoje kroky. V mém případě PC fungoval an první pokus a rovnou jsem se vrhnul na instalaci Windows.
-  
+Prvním krokem je vybalení základní desky (MoBo). Před vyjmutím z antistatického obalu se ujistíme, že jsme se zbavili statické elektřiny dotykem uzemněného kovového předmětu, například radiátoru. Desku poté položíme na její papírovou krabici, abychom ji nepoškodili o tvrdý stůl.
+
+Následuje instalace procesoru (CPU). Ještě před vyjmutím z krabičky zkontrolujeme, zda máme připravenou teplovodivou pastu (často bývá součástí balení chladiče). Otevřeme patici na základní desce zvednutím kovové páčky. Na rohu procesoru najdeme malou zlatou šipku, kterou musíme vizuálně srovnat se značkou na rohu patice. Procesor vložíme opatrně; musí zapadnout zcela volně vlastní vahou. Nikdy na něj netlačíme silou. Pokud jsme si stoprocentně jisti správnou orientací, uzamkneme procesor v patici stlačením páčky dolů a do strany.
+
+Dalším krokem je instalace operační paměti (RAM). Vzhledem k tomu, že tato sestava využívá jeden paměťový modul, umístíme jej do slotu číslo 2 (případně dle manuálu desky pro jednokanálové zapojení). Před vložením otevřeme zámky na bocích slotu, modul orientujeme podle výřezu v kontaktech a zatlačíme, dokud zámky slyšitelně necvaknou a modul pevně neuchytí.
+
+Jakmile jsou procesor a paměti na místě, přistoupíme k montáži chladiče. Jelikož využíváme platformu AMD se socketem AM4, je nutné nejprve odšroubovat původní plastové držáky kolem procesoru a nahradit je distančními sloupky z montážní sady chladiče. Poté připevníme kovový rámeček (bracket). Na procesor naneseme teplovodivou pastu (metodou kříže nebo tečky uprostřed), odstraníme ochrannou fólii z dotykové plochy chladiče a chladič přiložíme na procesor. Šrouby utahujeme střídavě a s citem, aby byl přítlak rovnoměrný a nedošlo k poškození desky přílišným utažením.
 
 ---
 
+## Instalace do skříně a zapojení
 
-## Instalace Windows
+Nyní přichází na řadu příprava počítačové skříně (Case). Ve spodní části skříně obvykle nalezneme svazek kabelů pro přední panel (tlačítka Power/Reset, USB, Audio) a sáček se šroubky. Nejdůležitějším prvním krokem je instalace IO shieldu (krycího plechu konektorů) do zadního výřezu skříně. Na tento krok nezapomínejte, zpětná instalace není možná bez vyjmutí desky. Následně do vnitřní stěny skříně našroubujeme distanční sloupky (spacery) přesně do míst, která odpovídají otvorům na naší základní desce.
 
+Desku opatrně vložíme do skříně tak, aby konektory zapadly do IO shieldu, a přišroubujeme ji do připravených distančních sloupků. Šrouby utahujeme pevně, aby deska nevibrovala, ale nikoliv „na krev“, abychom nepoškodili PCB desky. Ihned poté zapojíme konektory předního panelu (Power SW, Reset SW, LED diody) do příslušných pinů na desce a připojíme ventilátor chladiče procesoru do 4-pinového konektoru označeného jako CPU_FAN, který se nachází přímo u pamětí RAM a procesoru.
 
-Potřebné věci:
+Další fází je instalace napájecího zdroje (PSU). Zdroj vložíme do vyhrazeného prostoru (obvykle ve spodní části skříně) a přišroubujeme jej co nejpevněji, aby se nepohyboval. Pokud máte modulární zdroj, důrazně doporučuji zapojit všechny potřebné kabely do zdroje ještě před jeho vložením do skříně, protože později bude přístup velmi obtížný. Hlavní napájecí kabely (24-pin pro desku a 8-pin pro procesor) protáhneme zadní částí skříně a zapojíme do desky. Pro čistý vzhled a lepší průtok vzduchu použijte u modulárního zdroje jen ty kabely, které skutečně potřebujete.
 
+Instalace grafické karty (GPU) vyžaduje pozornost. Předtím, než se pokusíme kartu vložit, musíme odstranit záslepky (dust covers) na zadní straně skříně. Počet záslepek (obvykle dvě) a jejich pozici určíme podle umístění slotu PCIe x16 na základní desce. Pozor, u levnějších skříní jsou záslepky vylamovací – jakmile je odstraníte, nelze je vrátit zpět. Poté otevřeme plastový zámek na konci slotu PCIe x16, kartu zasuneme, dokud neuslyšíme cvaknutí pojistky, a přišroubujeme ji ke skříni. Nakonec zapojíme napájecí kabely ze zdroje. Pokud karta vyžaduje dva 8-pinové konektory, doporučuji pro stabilitu systému použít dva samostatné kabely vedené ze zdroje, nikoliv jeden rozdvojený.
 
-  1. USB Flash disk aspoň 16Gb
-
-  
-  2. Windows klíč (doporučené)
-
-
-Postup:
-
-
-  Po zapnutí počítače se Vám automaticky otevře BIOS. V BIOSu si najděte BOOT možnosti a vyberte si svůj flash disk na kterém je ISO nebo přímo instalace Windows z jiného zařízení. Po vybrání BOOT zařízení se dostanete do instalačky Windows. Tam si nastavte vše dle svých periférií. Pozor až se dostanete do části kam chcete dát systém tak je nutné vědět, že ten disk bude formátovaný a uložený data se vymažou. Pokud chcete data zálohovat doporučuji předem udělat klon disku a po instalaci windows dát klon disku na nový nebo ten stajný, ale nikdy neklonovat disk se starým sytémem! Já si osobně vždy formátuju všechny disky a partitiony, abych se s tím nemusel starat. A tohle je vš k instalaci až takhle jendoduché to je!
+Posledním krokem hardwarové montáže je osazení úložiště. Pevný disk (HDD) vložíme do 3,5" šachty (racku) a zajistíme šrouby. SSD disk jsem v mém případě umístil na vnitřní stranu bočnice skříně a přišrouboval. Oba disky propojíme datovými SATA kabely se základní deskou a napájecími SATA kabely ze zdroje. Pokud máte skříň s prosklenou bočnicí a máte rádi pořádek, věnujte čas vyvázání kabelů (cable management). Zaměřte se především na kabely viditelné skrz sklo; kabely skryté pod zadní bočnicí mohou zůstat volnější, jelikož nejsou vidět.
 
 ---
 
-## Legenda slov
+## První spuštění a instalace systému
 
-- GPU -> Graphic processor unit -> Grafická karta
-- CPU -> Central processor unit -> Procesor
-- MoBo -> Motherboard -> Základní deska
-- PSU -> Power supply -> Zdroj
-- HDD -> Hard disk
-- SSD -> Solid state drive
+Po kontrole všech spojů můžeme počítač zapnout. Pokud se roztočí ventilátory a systém naběhne do rozhraní BIOS, gratuluji, stavba byla úspěšná. Pokud se tak nestane, je nutné začít zpětně kontrolovat kroky (backtracking) a hledat chybu v zapojení. Pokud vše funguje, můžeme přejít k instalaci Windows.
+
+Pro instalaci budeme potřebovat USB flash disk o kapacitě alespoň 16 GB. Po zapnutí počítače vstoupíme do BIOSu, v sekci BOOT vybereme náš flash disk jako prioritní spouštěcí zařízení a uložíme nastavení. Po restartu se spustí instalátor Windows. Zde si nastavíme jazyk a periferie. V kroku výběru disku zvolíme naše SSD. Mějte na paměti, že instalace disk naformátuje a veškerá data na něm budou smazána. Doporučuji vždy formátovat disky/oddíly v rámci instalace, aby byl systém čistý.
 
 ---
 
+## Legenda pojmů
 
-## Foto dokumentace
+* **GPU** – Grafická karta (Graphic Processing Unit)
+* **CPU** – Procesor (Central Processing Unit)
+* **MoBo** – Základní deska (Motherboard)
+* **PSU** – Zdroj (Power Supply Unit)
+* **HDD** – Pevný disk (Hard Disk Drive)
+* **SSD** – Rychlý disk bez pohyblivých částí (Solid State Drive)
 
-- Před začátkem stavby: ![Before starting](before.jpg)
-- Po dokončení stavby: ![After done building](after.jpg)
+---
 
+## Fotodokumentace
 
-## Citace
-ZTT EXTRAS. How to Build a $1,400 Gaming PC Build (Ryzen 7 5800XT and RX 9060 XT). Online. 2026. Dostupné z: https://www.youtube.com/watch?v=QFWmvjTaJ8o&t=1324s. [cit. 2026-02-10].
-LINUS TECH TIPS. How to Build a PC, the last guide you’ll ever need! (2024 Update). Online. 2024. Dostupné z: https://www.youtube.com/watch?v=s1fxZ-VWs2U. [cit. 2026-02-10].
-IGABYTE TECHNOLOGY CO., LTD. (2023). B550M-K User’s Manual (Rev. 1001). Gigabyte. Staženo z https://download.gigabyte.com/FileList/Manual/mb_manual_b550m-k_e_1001.pdf?v=87bba5603e0f20b147063e0eea0c7e40
+* Před začátkem stavby: ![Before starting](before.jpg)
+* Po dokončení stavby: ![After done building](after.jpg)
+
+---
+
+## Citace a zdroje
+
+ZTT EXTRAS. *How to Build a $1,400 Gaming PC Build*. Online. 2026. Dostupné z: [YouTube](https://www.youtube.com/watch?v=QFWmvjTaJ8o).
+LINUS TECH TIPS. *How to Build a PC, the last guide you’ll ever need!*. Online. 2024. Dostupné z: [YouTube](https://www.youtube.com/watch?v=s1fxZ-VWs2U).
+GIGABYTE TECHNOLOGY. *B550M-K User’s Manual*. Dostupné z: [Gigabyte](https://download.gigabyte.com/FileList/Manual/mb_manual_b550m-k_e_1001.pdf).
