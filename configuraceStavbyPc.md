@@ -1,4 +1,4 @@
-# Výběr a stavba stolního PC
+# Výběr komponent
 
 ## Výběr komponent
 
