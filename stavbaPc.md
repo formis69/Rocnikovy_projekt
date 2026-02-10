@@ -79,6 +79,13 @@ Postup:
 
 ---
 
+
+## Foto dokumentace
+
+- Před začátkem stavby: ![Before starting](before.jpg)
+- Po dokončení stavby: ![After done building](after.jpg)
+
+
 ## Citace
 ZTT EXTRAS. How to Build a $1,400 Gaming PC Build (Ryzen 7 5800XT and RX 9060 XT). Online. 2026. Dostupné z: https://www.youtube.com/watch?v=QFWmvjTaJ8o&t=1324s. [cit. 2026-02-10].
 LINUS TECH TIPS. How to Build a PC, the last guide you’ll ever need! (2024 Update). Online. 2024. Dostupné z: https://www.youtube.com/watch?v=s1fxZ-VWs2U. [cit. 2026-02-10].
