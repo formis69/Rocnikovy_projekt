@@ -33,4 +33,4 @@ Během procesu jsem se naučil pracovat s benchmarky a pochopil jsem, že overcl
 1. BLACKBIRD PC TECH. *How To Overclock Your GPU The Right Way!* [Video]. YouTube, 2024. Dostupné z: https://www.youtube.com/watch?v=VLL2jUSxf_M. [cit. 2026-02-10].
 2. LESTRIPEZ. *Msi Afterburner: How To Overclock ANY GPU in 2025! ✅ (Easy OC Guide)* [Video]. YouTube, 2025. Dostupné z: https://www.youtube.com/watch?v=YuFGm5SWuwQ. [cit. 2026-02-10].
 3. CODECADEMY TEAM. *How to Overclock a CPU: Risks and Benefits*. Online. Codecademy, 2025. Dostupné z: https://www.codecademy.com/resources/blog/how-to-overclock-cpu. [cit. 2026-02-10].
-GOOGLE. Gemini [online]. Verze Gemini 3 Pro. Mountain View: Google, 2026 [cit. 2026-02-11]. Dostupné z: https://gemini.google.com.
+4. GOOGLE. Gemini [online]. Verze Gemini 3 Pro. Mountain View: Google, 2026 [cit. 2026-02-11]. Dostupné z: https://gemini.google.com.
