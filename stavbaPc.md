@@ -67,3 +67,4 @@ Pro instalaci budeme potřebovat USB flash disk o kapacitě alespoň 16 GB. Po z
 ZTT EXTRAS. *How to Build a $1,400 Gaming PC Build*. Online. 2026. Dostupné z: [YouTube](https://www.youtube.com/watch?v=QFWmvjTaJ8o).
 LINUS TECH TIPS. *How to Build a PC, the last guide you’ll ever need!*. Online. 2024. Dostupné z: [YouTube](https://www.youtube.com/watch?v=s1fxZ-VWs2U).
 GIGABYTE TECHNOLOGY. *B550M-K User’s Manual*. Dostupné z: [Gigabyte](https://download.gigabyte.com/FileList/Manual/mb_manual_b550m-k_e_1001.pdf).
+GOOGLE. Gemini [online]. Verze Gemini 3 Pro. Mountain View: Google, 2026 [cit. 2026-02-11]. Dostupné z: https://gemini.google.com.
